@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMUygulamasi/ATMUygulamasi.iml" filepath="$PROJECT_DIR$/ATMUygulamasi/ATMUygulamasi.iml" />
       <module fileurl="file://$PROJECT_DIR$/AlanHesap/AlanHesap.iml" filepath="$PROJECT_DIR$/AlanHesap/AlanHesap.iml" />
       <module fileurl="file://$PROJECT_DIR$/BoxGame/BoxGame.iml" filepath="$PROJECT_DIR$/BoxGame/BoxGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETicaretUyg/ETicaretUyg.iml" filepath="$PROJECT_DIR$/ETicaretUyg/ETicaretUyg.iml" />
       <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/KutuphaneBilgiSist/KutuphaneBilgiSist.iml" filepath="$PROJECT_DIR$/KutuphaneBilgiSist/KutuphaneBilgiSist.iml" />
       <module fileurl="file://$PROJECT_DIR$/MineSweeper/MineSweeper.iml" filepath="$PROJECT_DIR$/MineSweeper/MineSweeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/OgrenciBilgi/OgrenciBilgi.iml" filepath="$PROJECT_DIR$/OgrenciBilgi/OgrenciBilgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkulYonetim/OkulYonetim.iml" filepath="$PROJECT_DIR$/OkulYonetim/OkulYonetim.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhoneCalculate/PhoneCalculate.iml" filepath="$PROJECT_DIR$/PhoneCalculate/PhoneCalculate.iml" />
     </modules>
   </component>
